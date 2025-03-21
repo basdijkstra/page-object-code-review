@@ -1,0 +1,22 @@
+{
+  "name": "page-object-code-review",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basdijkstra/page-object-code-review.git"
+  },
+  "author": "Bas Dijkstra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basdijkstra/page-object-code-review/issues"
+  },
+  "homepage": "https://github.com/basdijkstra/page-object-code-review#readme",
+  "description": "",
+  "devDependencies": {
+    "playwright": "^1.51.1"
+  }
+}
