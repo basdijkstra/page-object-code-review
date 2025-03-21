@@ -17,6 +17,7 @@
   "homepage": "https://github.com/basdijkstra/page-object-code-review#readme",
   "description": "",
   "devDependencies": {
+    "@types/node": "^22.13.11",
     "playwright": "^1.51.1"
   }
 }
